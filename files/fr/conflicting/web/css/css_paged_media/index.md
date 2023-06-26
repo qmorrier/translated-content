@@ -1,11 +1,11 @@
 ---
 title: Médias paginés
-slug: Web/CSS/Paged_Media
+slug: conflicting/Web/CSS/CSS_paged_media
 tags:
   - CSS
   - Reference
 translation_of: Web/CSS/Paged_Media
-original_slug: Web/CSS/Média_paginés
+original_slug: Web/CSS/Paged_Media
 ---
 
 {{CSSRef}}
